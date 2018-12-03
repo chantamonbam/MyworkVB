@@ -1,0 +1,9 @@
+D:\VBปี2\Lab1\Lab1\obj\x86\Debug\Lab1.Lab1.resources
+D:\VBปี2\Lab1\Lab1\obj\x86\Debug\Lab1.Resources.resources
+D:\VBปี2\Lab1\Lab1\obj\x86\Debug\Lab1.vbproj.GenerateResource.Cache
+D:\VBปี2\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\VBปี2\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\VBปี2\Lab1\Lab1\bin\Debug\Lab1.xml
+D:\VBปี2\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+D:\VBปี2\Lab1\Lab1\obj\x86\Debug\Lab1.xml
+D:\VBปี2\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
